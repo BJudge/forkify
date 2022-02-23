@@ -4,7 +4,7 @@
   "description": "Recipe application",
   "default": "index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
-  "default": "index.html",
+  "default": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
